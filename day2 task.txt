@@ -16,7 +16,7 @@ It allows dynamic updates and interactions with web page content.
 
 
 Window object :
--------------
+--------------
 
 *The Window object is a global object in client side JavaScript,
  representing the browser window containing a DOM document and 
