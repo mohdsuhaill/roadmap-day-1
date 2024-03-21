@@ -1,4 +1,5 @@
 objects and its internal representation in Javascript...
+------------------------------------------------------
 
  *Objects are important data types in javascript. 
  Objects are different than primitive datatypes (i.e. number, string, boolean, etc.).
@@ -13,3 +14,5 @@ objects and its internal representation in Javascript...
 
  *A JavaScript object has properties associated with it.
   A property of an object can be explained as a variable that is attached to the object...
+
+  
