@@ -1,6 +1,18 @@
 objects and its internal representation in Javascript...
 -------------------------------------------------------
 
+This represents and Object:
+
+var car = {
+     Modelname:"sedan",
+     color:"red"
+}
+
+ in the above example car is the variable of the object.Inside the variable the the string BEFORE THE COLON is the "key" 
+ and the content which comes AFTER THE COLON is the "value".
+  *Key mostly can be a string or numbers for easy accessibility0.
+
+
  *Objects are important data types in javascript. 
  Objects are different than primitive datatypes (i.e. number, string, boolean, etc.).
 

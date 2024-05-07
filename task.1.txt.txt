@@ -16,3 +16,13 @@ in HTTP/1.1 and HTTP/2, which can improve performance and reduce complexity..
 
 *Launching of the HTTP/2 was an attempt to overcome the limitations of HTTP/1.1 and make it a more efficient web protocol.
  So, the major differences in these two are mainly the additions or upgrades applied in HTTP/2. Let’s see what they are:
+
+*Has more than one TCP(transmission Control Protocol),3-6 connection in later versions of it.
+TCP is like a pipeline which will be created between the server and client(browser) to transfer request and responses.
+
+*Has single TCP connections
+
+*One connection per request.The next request slows down until the first response is sent....
+Uses multiplexing which allows multiple request under single TCP...
+
+
